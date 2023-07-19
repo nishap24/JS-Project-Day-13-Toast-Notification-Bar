@@ -38,6 +38,11 @@ To explore or modify the code, follow these steps:
 2. Dynamic Progress Bar: Keep track of notification duration with a color-coded progress bar that gradually reduces, providing a visual representation of remaining time.
 
 3. Partially Responsive Design: Enjoy the notification bar across devices, although it may not fully adapt to all screen sizes.
+
+## Deployment Status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1bdcad9f-fb05-4de4-9d82-b4ccb2627cf9/deploy-status)](https://app.netlify.com/sites/kanasu-toast-notification-bar/deploys)
+
 ## Contributing
 
 Contributions are always welcome!
@@ -56,7 +61,7 @@ NK :
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nishap24)
 
-[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_nisha_p_24)
+[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_nisha_2407_)
 
 
 Thank you for visiting the page!
